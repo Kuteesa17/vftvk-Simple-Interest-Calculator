@@ -20,7 +20,7 @@ h3,form {
 
 }
 
-.border1{
+.maindiv {
   width: 1240px;
   height: auto;
   background-color: white;
@@ -78,6 +78,4 @@ h3,form {
   padding: 0 0 60px 50px;
   margin-top: 30px;
 }
-
-
 
